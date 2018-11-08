@@ -1,0 +1,4 @@
+1- VersiÃ³ 0.1 del programa mitja 2018-2019
+2- Autor: dc1819daw2
+3- Per compilar el programa, executa:
+	gcc mitjana.c -o mitjana
